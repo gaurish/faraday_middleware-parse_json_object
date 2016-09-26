@@ -6,13 +6,13 @@ A simple Faraday middleware that parses JSON responses as Object. It is identica
 
 ``` ruby
 # Gemfile
-gem 'faraday_middleware-parse_object', '~> 0.1.0'
+gem 'faraday_middleware-parse_json_object', '~> 0.1.0'
 ```
 
 or
 
 ``` bash
-$ gem install faraday_middleware-parse_object
+$ gem install faraday_middleware-parse_json_object
 ```
 
 ## Usage
